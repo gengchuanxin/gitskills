@@ -1,2 +1,2 @@
-# gitskills
-add test && add testt
+gitskills
+add test
