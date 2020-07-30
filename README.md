@@ -1,2 +1,2 @@
 gitskills
-add test and test
+add test && test
